@@ -1,5 +1,7 @@
 cow 
 owned by son
 eat grass
+vegetables
+calv drink milk
 give milk
 The are the basic info of the cow owned by us.
