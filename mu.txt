@@ -1,0 +1,5 @@
+cow 
+owned by son
+eat grass
+give milk
+The are the basic info of the cow owned by us.
